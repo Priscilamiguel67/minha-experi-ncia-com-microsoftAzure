@@ -1,4 +1,4 @@
-# minha-experi-ncia-com-microsoftAzure
+# minha-experiência-com-microsoftAzure
 
 
 Este repositório foi criado para documentar minha experiência prática na utilização da plataforma **Microsoft Azure**.
